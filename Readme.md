@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Pavel Kuznetsov](https://up.htmlacademy.ru/adaptive/17/user/641789).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Слесаренко](https://htmlacademy.ru/profile/swen).
 
 ---
 
